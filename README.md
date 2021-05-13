@@ -8,6 +8,6 @@ I've been working on the web since 2000 and dabbling long before that. I built a
 - 🔭 I’m currently working on [Adaptable](https://github.com/adaptable-org), a site to help amputees find information to help them more easily pursue and enjoy movement and activities. It's entirely open source and a 501(c)3 non-profit.
 - 🌱 I’m currently learning everything I can about the more nuanced details in Ruby.
 - 💬 Ask me about holistic web development and staying active as an amputee.
-- 📫 How to reach me: [garrett@hey.com](mailto:garrett@hey.com)
+- 📫 How to reach me: [email@garrettdimon.com](mailto:email@garrettdimon.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a left below-knee amputee who loves mountain biking, snowboarding, camping, and all things outdoors.
