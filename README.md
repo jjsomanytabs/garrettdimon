@@ -10,4 +10,4 @@ I've been working on the web since 2000 and dabbling long before that. I built a
 - 💬 Ask me about holistic web development and staying active as an amputee.
 - 📫 How to reach me: [email@garrettdimon.com](mailto:email@garrettdimon.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a left below-knee amputee who loves mountain biking, snowboarding, camping, and all things outdoors.
+- ⚡ Fun fact: I'm a left below-knee amputee who loves sit-skiing, mountain biking, paddle boarding, camping, and all things outdoors.
